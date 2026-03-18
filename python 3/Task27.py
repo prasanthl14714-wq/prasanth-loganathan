@@ -1,0 +1,2 @@
+text = input("Enter a string: ")
+print("Last 3 characters:", text[-3:])
